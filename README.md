@@ -2,9 +2,9 @@
 
 Tau Ceti is a custom, alternative color scheme for the JetBrains AppCode Objective-C IDE. It comes with beautiful, carfully selected colors to boost up your coding experience. I did not feel comfortable with any of the bundled schemes so I created this one on my own. The name Tau Ceti is derived from the star system with the same name. It's also the name of science fiction themed computer game which I played on my C64 when I was a child.
 
-![Image](../blob/master/Images/preview.png?raw=true)
+![Image](https://raw.github.com/ByteProject/Tau-Ceti-theme/master/Images/preview.png)
 
-A set of full resolution screenshots is available here [screen 1 images](http://cl.ly/image/1v3Q2T1q142g/o) [screen 2](http://cl.ly/image/0G0b3u190d1W/o).
+A set of full resolution screenshots is available here [screen 1](http://cl.ly/image/1v3Q2T1q142g/o) | [screen 2](http://cl.ly/image/0G0b3u190d1W/o).
 
 # Customized Syntax highlighting
 
