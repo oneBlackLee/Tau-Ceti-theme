@@ -1,6 +1,6 @@
 # Tau Ceti theme for AppCode
 
-Tau Ceti is a custom, alternative color scheme for the JetBrains AppCode Objective-C IDE. It comes with beautiful, carfully selected colors to boost up your coding experience and productivity. I did not feel comfortable with any of the bundled schemes so I created this one on my own. The name Tau Ceti is derived from the star system with the same name. It's also the name of a science fiction themed computer game which I played on my Commodore 64 when I was a child.
+Tau Ceti is a custom, alternative color scheme for the JetBrains AppCode Objective-C IDE. It comes with beautiful, carefully selected colors to boost up your coding experience and productivity. I did not feel comfortable with any of the bundled schemes so I created this one on my own. The name Tau Ceti is derived from the star system with the same name. It's also the name of a science fiction themed computer game which I played on my Commodore 64 when I was a child.
 
 ![Image](https://raw.github.com/ByteProject/Tau-Ceti-theme/master/Images/preview.png)
 
