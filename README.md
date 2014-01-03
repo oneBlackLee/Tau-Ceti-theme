@@ -4,7 +4,7 @@ Tau Ceti is a custom, alternative color scheme for the JetBrains AppCode Objecti
 
 ![Image](https://raw.github.com/ByteProject/Tau-Ceti-theme/master/Images/preview.png)
 
-A set of full resolution screenshots is available here [screen 1](http://cl.ly/image/1v3Q2T1q142g/o) | [screen 2](http://cl.ly/image/0G0b3u190d1W/o).
+More screenshots available here [preview 1](http://cl.ly/image/3W2d3j0z0p3x/o) | [preview 2](http://cl.ly/image/0G0b3u190d1W/o) | [preview 3](http://cl.ly/image/312H0y2B1Q3P/o).
 
 # Customized Syntax highlighting
 
