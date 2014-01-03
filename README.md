@@ -8,7 +8,7 @@ A set of full resolution screenshots is available here [screen 1](http://cl.ly/i
 
 # Customized Syntax highlighting
 
-AppCode offers a thousand settings to customize nearly every aspect of it's appearance. This is exactly what I did. In addition to support for C/C++/Objective-C, I added customized syntax highlighting for CocoaPods, CSS, HTML, JavaScript, RegExp, XML and XPath. General color settings and language defaults have been modified to fit to Tau Ceti, as well as console and diff colors.
+AppCode offers a thousand settings to customize nearly every aspect of it's appearance. It would be a shame not to perceive these opportunities. So Tau Ceti is handcrafted to beautifully colorize C/C++/Objective-C, but in addition, it comes with customized syntax highlighting for CocoaPods, CSS, HTML, JavaScript, RegExp, XML and XPath, console and diff colors.
 
 # Installation
 
@@ -17,3 +17,7 @@ Close AppCode, copy the file to AppCode's color scheme dir with Terminal.
 	 cp Tau\ Ceti.icls ~/Library/Preferences/appCode20/colors/
 
 Restart Appcode. Make sure the IDE theme `Darcula` is selected under `IDE settings > Appearance`. Tau Ceti is optimized for a dark IDE. Now navigate to `Editor > Colors and Fonts` and select `Tau Ceti` from the schemes dropdown menu. That's it. Enjoy!
+
+# IntelliJ IDEA
+
+In the wake of overwhelming feedback for Tau Ceti and due to numerous requests, I created a version that's fully compatible with IntelliJ IDEA. It will highlight all above-mentioned syntax but further comes with support for Java and Groovy: [Tau Ceti IntelliJ IDEA edition](http://cl.ly/30171V250j0S). Note I'm not a Java Developer and I don't use IDEA myself, so this variant is not officially supported and no part of this repository.
