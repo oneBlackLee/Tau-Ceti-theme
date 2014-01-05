@@ -4,7 +4,7 @@ Tau Ceti is a custom, alternative color scheme for the JetBrains AppCode Objecti
 
 ![Image](https://raw.github.com/ByteProject/Tau-Ceti-theme/master/Images/preview.png)
 
-More screenshots available here [preview 1](http://cl.ly/image/3W2d3j0z0p3x/o) | [preview 2](http://cl.ly/image/0G0b3u190d1W/o) | [preview 3](http://cl.ly/image/312H0y2B1Q3P/o).
+More screenshots available here [preview 1](http://cl.ly/image/3W2d3j0z0p3x/o) | [preview 2](http://cl.ly/image/0G0b3u190d1W/o) | [preview 3](http://cl.ly/image/0H1o1H1C1H1d/o).
 
 # Customized Syntax highlighting
 
@@ -20,4 +20,4 @@ Restart Appcode. Make sure the IDE theme `Darcula` is selected under `IDE settin
 
 # IntelliJ IDEA
 
-In the wake of overwhelming feedback for Tau Ceti and due to numerous requests, I created a version that's fully compatible with IntelliJ IDEA. It will highlight all above-mentioned syntax but further comes with support for Java and Groovy: [Tau Ceti IntelliJ IDEA edition](http://cl.ly/30171V250j0S). Note I'm not a Java Developer and I don't use IDEA myself, so this variant is not officially supported and no part of this repository.
+In the wake of overwhelming feedback for Tau Ceti and due to numerous requests, I created a version for IntelliJ IDEA. [Tau Ceti IntelliJ IDEA edition](http://cl.ly/30171V250j0S). Note I'm no Java Developer and I don't use IDEA myself, so this variant is not officially supported and not part of this repository.
